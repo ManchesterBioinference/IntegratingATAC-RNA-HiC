@@ -12,9 +12,9 @@
 - [Linking_CHiC_ATACseq_RNAseq](#Linking_CHiC_ATACseq_RNAseq)
 
 ## ATACseq
-- [**Heatmap**](https://github.com/ManchesterBioinference/blob/IntegratingATAC-RNA-HiC/blob/master/ATACseq/ATACseq_heatmap_Fig_3a.ipynb): heatmap of ATAC-seq data based on the clustering results from ATACseq_clustering_Fig_3c.ipynb.
+- [**Heatmap**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/ATACseq/ATACseq_heatmap_Fig_3a.ipynb): heatmap of ATAC-seq data based on the clustering results from ATACseq_clustering_Fig_3c.ipynb.
 - [**Clustering**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/ATACseq/ATACseq_clustering_Fig_3b.ipynb): hierarchical Gaussian Processing (GP) clustering of dynamic ATAC-seq time course data.
-- [**QC**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/ATACseq/ATACseq_supplementary_Fig_3.ipynb): quality check of ATAC-seq data.
+- [**QC**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/ATACseq/ATACseq_supplementary_Fig3.ipynb): quality check of ATAC-seq data.
 - [**Dynamics**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/ATACseq/ATACseq_calculate_LRandBIC.ipynb): calculate Loglikelihood ratio (LR) and bayesian information criteria (BIC) for ATAC-seq data.
 
 ## RNAseq

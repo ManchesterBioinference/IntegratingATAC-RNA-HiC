@@ -35,7 +35,7 @@
 ## Linking_CHiC_ATACseq_RNAseq
 Directory for producing correlation density plots between linked CHi-C, ATAC-seq and RNA-seq data.
 - [**Correlations**](https://github.com/ManchesterBioinference/Publications/blob/master/IntegratingATAC-RNA-HiC/Linking_CHiC_ATACseq_RNAseq/plot_CHiC_ATACseq_RNAseq_connections_Fig4a.ipynb): generate the correlation density maps of linked CHi-C, ATAC-seq and RNA-seq data under varied distance ranges around promoters as shown in Fig. 4a.
-- [**Dynamics**] dynamics of CHi-C, ATAC-seq, RNA-seq at different levels. 
+- **Dynamics**: dynamics of CHi-C, ATAC-seq, RNA-seq at different levels. 
   -  [**Dynamics in foldchange**](https://github.com/ManchesterBioinference/Publications/blob/master/IntegratingATAC-RNA-HiC/Linking_CHiC_ATACseq_RNAseq/plot_foldchange_Fig4bc.ipynb): display the log2 fold change of ATAC-seq vs gene and CHi-C vs gene, as shown in Fig. 4b-c
   -  [**Dynamics in original data**](https://github.com/ManchesterBioinference/Publications/blob/master/IntegratingATAC-RNA-HiC/Linking_CHiC_ATACseq_RNAseq/plot_supplementary_Fig_11.ipynb): display dynamic patterns of CHi-C and ATAC-seq associated with different gene clusters. 
   -  [**Dynamics at CTCF/H3K27AC binding sites**](https://github.com/ManchesterBioinference/Publications/blob/master/IntegratingATAC-RNA-HiC/Linking_CHiC_ATACseq_RNAseq/plot_supplementary_Fig_10_a_b_c.ipynb): display dynamics of CHi-C, ATAC-seq and Gene expression linked to ATAC-seq peaks intersected with CTCF/H3K27AC binding sites.

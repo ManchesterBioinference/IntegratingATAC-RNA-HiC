@@ -24,7 +24,7 @@
 
 ## CHiC
 - [**QC**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/CHiC/CHiC_qualitycheck_supplementaryFig6a.ipynb): compare CHi-C interactions with similar data from **"Burren, O.S. et al, Chromosome contacts in activated T cells identify autoimmune disease candidate genes, Genome Biology, 18 (165) (2017)"** as shown in Supplementary Fig. 6a. 
-- [**Clustering**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/CHiC/CHiC_clustering_supplemtnaryFig6b.ipynb): clustering of CHi-C data and generate Supplementary Fig. 6b.
+- [**Clustering**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/CHiC/CHiC_clustering_supplementaryFig6b.ipynb): clustering of CHi-C data and generate Supplementary Fig. 6b.
 
 ## HiC
 - [**Interactions**](https://github.com/ManchesterBioinference/IntegratingATAC-RNA-HiC/blob/master/HiC/HiC_interaction_matrices.ipynb): generate the interaction matrices for Hi-C data at different time. Upper triangular part of Hi-C data of chr1 is shown in upper panel of Fig. 2a

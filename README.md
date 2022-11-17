@@ -1,6 +1,4 @@
 
-[![INSERT YOUR GRAPHIC HERE](https://personalpages.manchester.ac.uk/staff/jing.yang/Data/MRC_figure1.png)]()
-
 # Analysis of chromatin organization and gene expression in T cells identifis functional genes for rheumatoid arthritis
  scripts to accompany the paper [**"Analysis of chromatin organization and gene expression in T cells identifies functional genes for rheumatoid arthritis"**](https://www.nature.com/articles/s41467-020-18180-7) authored by <i>Jing Yang, Amanda McGovern,  Paul Martin, Kate Duffus, Xiangyu Ge, Peyman Zarrineh, Andrew P Morris, Antony Adamson, Peter Fraser, Magnus Rattray & Stephen Eyre</i>. Scripts are based on R and presented in Jupyter notebook. 
 
